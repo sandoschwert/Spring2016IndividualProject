@@ -5,11 +5,11 @@ This is the individual project of Sandi Schwert - Speak friend and enter.
 ### or Kids Learn about IT Careers
 
 ##Synopsis
-My website/app is a learning tool for kids ages 8-14 to learn about IT Careers and a little bit about basic coding concepts.
-It will walk them through a series of stories about each career in IT, give an example of someone in that career, and compare that career to part of the sandwich making process with fun images to lead them through each pane.
-At the end of each career story line they will receive a badge that verifies that have completed that career track.
-They can collect their badges in their own personal profile area.
--[ ]Extra Credit Dream: They can connect with their friends (girl scout troops, code camp cohorts etc) to compare badge sets.
+- My website/app is a learning tool for kids ages 8-14 to learn about IT Careers and a little bit about basic coding concepts.
+- It will walk them through a series of stories about each career in IT, give an example of someone in that career, and compare that career to part of the sandwich making process with fun images to lead them through each pane.
+- At the end of each career story line they will receive a badge that verifies that have completed that career track.
+- They can collect their badges in their own personal profile area.
+- [ ] Extra Credit Dream: They can connect with their friends (girl scout troops, code camp cohorts etc) to compare badge sets.
 
 ##Resources/Ideas
 * http://gogirl.org.au/
