@@ -20,6 +20,7 @@ This is the individual project of Sandi Schwert - Speak friend and enter.
 * https://www.girldevelopit.com/
 * https://code.org/
 * http://www.one.org/us/2016/01/08/meet-the-woman-teaching-ghanas-kids-to-code/?source=googleads&gclid=CM2u7I7AysoCFQqPaQodWHoD4g
+* http://www.codelikeagirl.com.au/
 
 ##Web Services/API's Possibilities
 * Google Calendar API - to add upcoming events for GET IT and Kids Code Camp - https://developers.google.com/google-apps/calendar/?hl=en
