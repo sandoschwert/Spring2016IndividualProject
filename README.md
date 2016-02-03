@@ -4,6 +4,9 @@ This is the individual project of Sandi Schwert - Speak friend and enter.
 # Girls Educating Themselves about Information Technology
 ### or Kids Learn about IT Careers
 
+##Link to Prototype
+http://girlsgetit.businesscatalyst.com/index.html 
+
 ##Synopsis
 - My website/app is a learning tool for kids ages 8-14 to learn about IT Careers and a little bit about basic coding concepts.
 - It will walk them through a series of stories about each career in IT, give an example of someone in that career, and compare that career to part of the sandwich making process with fun images to lead them through each pane.
@@ -38,3 +41,4 @@ This is the individual project of Sandi Schwert - Speak friend and enter.
 	Database
 * JSON - http://www.json.org/
 	Will need to connect to the Scratch API
+	
