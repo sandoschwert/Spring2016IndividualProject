@@ -4,7 +4,7 @@ This is the individual project of Sandi Schwert - Speak friend and enter.
 # Girls Educating Themselves about Information Technology
 ### or Kids Learn about IT Careers
 
-##Link to Prototype
+##Link to Prototype/Wireframe
 http://girlsgetit.businesscatalyst.com/index.html 
 
 ##Synopsis
