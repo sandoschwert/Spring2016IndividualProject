@@ -9,13 +9,13 @@
 - [X] Begin project plan
 
 ### Week 2
-- [ ] Document application flow
-- [ ] Complete screen design (on paper)
+- [X] Document application flow
+- [X] Complete screen design (on paper)
 - [ ] Create project structure in IntelliJ
 - [ ] Complete database design
 - [ ] Begin creating JSPs
 - [ ] Weekly journal entry
-- [ ] Complete project plan. Based on the design should be able to lay out more detail
+- [X] Complete project plan. Based on the design should be able to lay out more detail
 
 ### Week 3
 - [ ] Complete JSPs
